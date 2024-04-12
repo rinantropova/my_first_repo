@@ -3,3 +3,5 @@
 Text has been added.
 
 Text is added via web-browser.
+
+Text is added locally.
