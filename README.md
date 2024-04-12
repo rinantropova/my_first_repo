@@ -8,4 +8,4 @@ Text is added locally.
 
 Text is added in the new branch new_branch
 
-Solving the conflict
+Solving the conflict, text in browser
